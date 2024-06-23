@@ -1,2 +1,2 @@
-# Cartells Immagini
-cartella che contiene le immagini e gif.
+# Cartella Immagini
+Cartella che contiene le immagini e le gif dei miei progetti.
