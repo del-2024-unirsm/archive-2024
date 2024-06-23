@@ -18,7 +18,7 @@ Diversamente da "10 PRINT" il progetto in questione utilizza i valori di luminos
 I Mass Media e le istituzioni controllano e filtrano i contenuti che diventano accessibili al pubblico, determinando quali informazioni sono notiziabili e quali no. Questa censura limita la libertà di espressione e influenza l'opinione pubblica in maniera univoca: i mass media hanno una funzione atidemocratica che, attraverso la censura, li definisce come feroci strumenti di controllo e dominio.
 
 
-##ISTUZIONI
+## ISTUZIONI
 
 Per avviare il programma:
 
@@ -28,5 +28,5 @@ Per avviare il programma:
  
 
 
-# Link:
+## Link:
 https://sprocacci.github.io/-10_PUNK_PRINT-/[FUNKY_PRINT].html
