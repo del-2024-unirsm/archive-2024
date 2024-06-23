@@ -3,7 +3,7 @@
 ## Descrizione
 Il progetto "\m/ 10 PUNK PRINT \m/", progettato sulla base della famosa stringa "10 PRINT", solleva importanti riflessioni sulla natura della casualità, della creatività e della riproducibilità degli artefatti digitali, nonché sul ruolo dei media contemporanei nel controllare e censurare i contenuti. "10 PRINT" è famoso per la sua capacità di generare un pattern visivi attraverso una logica estremamente semplice: proprio questo concetto di casualità visiva diventa il punto di partenza per riflettere su come la tecnologia può produrre complessità a partire da elementi basilari.
 
-Cosa succede se si associano dei valori determinati e precisi alla generazione dei pattern? 
+Cosa succede se si associano dei valori determinati e non più randomici alla generazione dei pattern? 
 
 
 ## Reference
