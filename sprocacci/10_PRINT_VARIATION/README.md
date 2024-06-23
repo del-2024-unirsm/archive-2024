@@ -1,7 +1,7 @@
-# \m/ 10 PUNK PRINT \m/
+# \m/ 10_PUNK_PRINT \m/
 
 ## Descrizione
-Il progetto "\m/ 10 PUNK PRINT \m/", progettato sulla base della famosa stringa "10 PRINT", solleva importanti riflessioni sulla natura della casualità, della creatività e della riproducibilità degli artefatti digitali, nonché sul ruolo dei media contemporanei nel controllare e censurare i contenuti. "10 PRINT" è famoso per la sua capacità di generare un pattern visivi attraverso una logica estremamente semplice: proprio questo concetto di casualità visiva diventa il punto di partenza per riflettere su come la tecnologia può produrre complessità a partire da elementi basilari.
+Il progetto "\m/ 10_PUNK_PRINT \m/", progettato sulla base della famosa stringa "10 PRINT", solleva importanti riflessioni sulla natura della casualità, della creatività e della riproducibilità degli artefatti digitali, nonché sul ruolo dei media contemporanei nel controllare e censurare i contenuti. "10 PRINT" è famoso per la sua capacità di generare un pattern visivi attraverso una logica estremamente semplice: proprio questo concetto di casualità visiva diventa il punto di partenza per riflettere su come la tecnologia può produrre complessità a partire da elementi basilari.
 
 Cosa succede se si associano dei valori determinati e non più randomici alla generazione dei pattern? 
 
@@ -15,10 +15,10 @@ Cosa succede se si associano dei valori determinati e non più randomici alla ge
 ## Prototipo
 
 ![Alt Text](https://github.com/sprocacci/archive-2024/blob/main/sprocacci/ASSETS/52E7FE6C-1E39-429D-B48F-D8983259EB92-ezgif.com-optimize(1).gif)
->_Prototipazione e test di "\m/ 10 PUNK PRINT \m/"._
+>_Prototipazione e test di "\m/ 10_PUNK_PRINT \m/"._
 >
 ![Alt Text](https://github.com/sprocacci/archive-2024/blob/main/sprocacci/ASSETS/IMG_6467-ezgif.com-optimize(1).gif)
->_Prototipazione e test di "\m/ 10 PUNK PRINT \m/"._  
+>_Prototipazione e test di "\m/ 10_PUNK_PRINT \m/"._  
 
 
 ## Progetto
