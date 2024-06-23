@@ -34,7 +34,7 @@ I Mass Media e le istituzioni controllano e filtrano i contenuti che diventano a
 >_Risultato finale di una variante di pattern._
 
 
-## ISTUZIONI
+## Istruzioni
 
 Per avviare il programma:
 
