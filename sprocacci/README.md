@@ -1,2 +1,4 @@
-#Repository folder of @sprocacci
-WIP
+# Repository folder of @sprocacci
+
+## WIP
+We are just vibing :D
